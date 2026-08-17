@@ -12,5 +12,5 @@ This project marks an important step in my Python development journey. By buildi
 * **Data Stats:** Automatically calculates averages, highs, lows, and slices top scores.
 
 ## 💻 How to Run
-1. Open the Jupyter Notebook file (`score_tracker.ipynb`) or open it in Google Colab.
-2. Run the cells and follow the on-screen prompts!
+1. Download or clone the repository and open `A_score_tracker.py` in your preferred Python IDE or terminal.
+2. Run the script and follow the on-screen prompts in your terminal!
